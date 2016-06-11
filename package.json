@@ -1,0 +1,35 @@
+{
+  "name": "react-native-dynamic-form",
+  "version": "1.0.0",
+  "description": "Dynamic form builder for React Native inputs, joined logically as a form",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HS2-SOLUTIONS/react-native-dynamic-forms.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "form",
+    "flexbox",
+    "flexbox",
+    "form"
+  ],
+  "author": "HS2 Solutions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HS2-SOLUTIONS/react-native-dynamic-forms/issues"
+  },
+  "homepage": "https://github.com/HS2-SOLUTIONS/react-native-dynamic-forms#readme",
+  "devDependencies": {
+    "react": "^15.0.2",
+    "react-native": "^0.26.2"
+  },
+  "peerDependencies": {
+    "react": "^15.0.2",
+    "react-native": "^0.26.2"
+  }
+}
